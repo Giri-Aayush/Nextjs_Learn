@@ -18,12 +18,21 @@ cd 'folder-name'
 
 In this case the folder is Nextjs_Learn.
 Now you can continue to developing the project and make changes as you like
-
+##Personal
 ```sh
 git status
 git add .
 git config user.email "aayushgiri1234@gmail.com"
 git config user.name "Giri-Aayush"
+git commit -m "1st commit"
+git push
+```
+##Work
+```sh
+git status
+git add .
+git config user.email "aayush.giri@joinclamp.com"
+git config user.name "Aayush-Giri-Clamp"
 git commit -m "1st commit"
 git push
 ```
