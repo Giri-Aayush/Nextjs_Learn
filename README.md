@@ -28,12 +28,3 @@ git config user.name "Giri-Aayush"
 git commit -m "1st commit"
 git push
 ```
-## Work
-```sh
-git status
-git add .
-git config user.email "aayush.giri@joinclamp.com"
-git config user.name "Aayush-Giri-Clamp"
-git commit -m "1st commit"
-git push
-```
